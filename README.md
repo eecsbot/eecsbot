@@ -1,9 +1,24 @@
+# welcome
 
-hi, i am Gonçalo
-i am interested in machine learning, 'ai' and data science
-i am currently studying eletrical and computer engineering at ist-ulisboa
-i am looking for summer interships
-how to reach me: gonfrazao@gmail.com
+# interests
+machine learning
+
+ai 
+
+data science
+
+# personal information
+undergrad student
+
+eletrical and computer engineering (ist-ulisboa)
+
+formula student rookie (fst-lisboa)
+
+# looking for
+summer internships
+
+# contact
+gonfrazao@gmail.com
 
 <!---
 StrangeRabbit/StrangeRabbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
