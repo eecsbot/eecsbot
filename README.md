@@ -7,7 +7,7 @@ ai
 
 data science
 
-# personal information
+# personal info
 undergrad student
 
 eletrical and computer engineering (ist-ulisboa)
