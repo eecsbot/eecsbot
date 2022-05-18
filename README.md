@@ -1,21 +1,9 @@
 # welcome
 
-# interests
-machine learning
-
-ai
-
-data science
-
 # personal info
 undergrad student
 
 eletrical and computer engineering (ist-ulisboa) 2020 - until now
-
-formula student rookie (fst-lisboa) 2020 - 2021
-
-# looking for
-summer internships
 
 # contact
 gonfrazao@gmail.com
