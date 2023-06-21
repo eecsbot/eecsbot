@@ -6,7 +6,7 @@ undergrad student
 eletrical and computer engineering (ist-ulisboa) 2020 - until now
 
 # contact
-gonfrazao@gmail.com
+goncalobfrazao@tecnico.ulisboa.pt
 
 <!---
 StrangeRabbit/StrangeRabbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
