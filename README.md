@@ -1,9 +1,9 @@
 # welcome
 
 # personal info
-undergrad student
+masters student
 
-eletrical and computer engineering (ist-ulisboa) 2020 - until now
+eletrical and computer engineering (ist-ulisboa) 2023 - 2025
 
 # contact
 goncalobfrazao@tecnico.ulisboa.pt
