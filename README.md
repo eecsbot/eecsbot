@@ -1,9 +1,11 @@
 # welcome
 
 # personal info
-masters student
+masters student with major in control, robotics and artificial intelligence
 
 eletrical and computer engineering (ist-ulisboa) 2023 - 2025
+
+
 
 # contact
 goncalobfrazao@tecnico.ulisboa.pt
